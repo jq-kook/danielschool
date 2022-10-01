@@ -3,21 +3,21 @@
 	1. Table tag (10분)
 		1. table, tr, th, td 설명
 	   		1. <https://www.w3schools.com/html/html_tables.asp>
-		2. 실습 1
+		2. 실습 1 :star:
 			1. 우리 가족들의 이름, 좋아하는 색깔, 좋아하는 음식이 담긴 테이블 만들기(name/color/food)
 	2. Input tag (10분)
 		1. label, input 설명
 			1. <https://www.w3schools.com/tags/tag_input.asp>
 			2. input type에는 여러 종류가 있다
 			3. attribute = 해당 태그의 속성("바꿀 수 있는" 내 머리색깔)
-		2. 실습 2
+		2. 실습 2 :star:
 			1. 이메일과 패스워드로 라벨 및 인풋 타입 바꿔보기
 			2. 여러가지 input type이 어떻게 표시되는지 살펴보기
 	3. A tag (10분)
 		1. a 설명
 			1. <https://www.w3schools.com/tags/tag_a.asp>
 			2. 기본, 이미지, 새 창, 섹션
-		2. 실습 3
+		2. 실습 3 :star:
 			1. 위의 4가지 방법을 직접 눌러보자
 
 2. Bootstrap (10분)
